@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://qiufei.site/tool
+  site-url: https://qiufei.site/market
   search: true
   # 设置网站图标
   favicon: profile.jpg
